@@ -1,0 +1,10 @@
+anthropic
+python-dotenv
+pyautogui
+pyttsx3
+SpeechRecognition
+pyaudio
+pywin32
+uiautomation
+pytesseract
+Pillow
